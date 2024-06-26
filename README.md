@@ -1,1 +1,1 @@
-STATDM: Scene Text Aware style Transfer Diffusion Model
+발표자료에 과제 PDF 문단 내용 보다 더 자세한 내용이 있습니다. 확인해주시면 감사드리겠습니다. 
