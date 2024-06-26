@@ -1,1 +1,1 @@
-STAMP: Scene Text Aware diffusion Model with image Prompt
+STATDM: Scene Text Aware style Transfer Diffusion Model
